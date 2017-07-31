@@ -1,0 +1,97 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+header h1 {
+	text-align: center;
+	font-size: 42px;
+	font-family: 'Courgette', cursive;
+}
+
+section {
+	margin: 10px 15%;
+	width: 70%;
+}
+
+section ul li img {
+	width: 100%;
+}
+
+section h3 {
+	text-align: center;
+	margin: 60px;
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+}
+
+section ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+section ul li {
+	display: inline-block;
+	max-width: 30%;	
+    margin: 1%;
+    vertical-align: top;
+}
+
+.about h3 {
+	margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.about_left {
+	float: left;
+	width: 18%;
+}	
+
+.about_left img {
+	width: 90%;
+}
+
+.about_right {
+	padding: 10px;
+}
+
+.about_bottom {
+	clear: both;
+}
+
+.about_bottom p {
+	margin: 0;
+}
+
+#medievalPic {
+	float: left;
+	width: 33%;
+}
+
+#medievalPic img {
+	width: 91%;
+}
+
+#amyImage {
+	vertical-align: middle;
+}
+
+footer {
+	border-top: 1px solid #979797;
+	width: 90%;
+	margin: 20px 5% 0;
+	text-align: center;
+}
+
+footer ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+footer ul li {
+	display: inline-block;
+	margin: 10px 5px; 
+}
+
+footer ul li a {
+	color: #000;
+}
